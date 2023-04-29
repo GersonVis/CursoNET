@@ -1,0 +1,7 @@
+C:\Users\Golfa\source\repos\practicas\ClasesDemo1\ClasesDemo1\bin\Debug\ClasesDemo1.exe.config
+C:\Users\Golfa\source\repos\practicas\ClasesDemo1\ClasesDemo1\bin\Debug\ClasesDemo1.exe
+C:\Users\Golfa\source\repos\practicas\ClasesDemo1\ClasesDemo1\bin\Debug\ClasesDemo1.pdb
+C:\Users\Golfa\source\repos\practicas\ClasesDemo1\ClasesDemo1\obj\Debug\ClasesDemo1.csproj.AssemblyReference.cache
+C:\Users\Golfa\source\repos\practicas\ClasesDemo1\ClasesDemo1\obj\Debug\ClasesDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Golfa\source\repos\practicas\ClasesDemo1\ClasesDemo1\obj\Debug\ClasesDemo1.exe
+C:\Users\Golfa\source\repos\practicas\ClasesDemo1\ClasesDemo1\obj\Debug\ClasesDemo1.pdb

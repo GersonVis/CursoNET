@@ -1,0 +1,7 @@
+C:\Users\Golfa\source\repos\practicas\Excepsiones\Excepsiones\bin\Debug\Excepsiones.exe.config
+C:\Users\Golfa\source\repos\practicas\Excepsiones\Excepsiones\bin\Debug\Excepsiones.exe
+C:\Users\Golfa\source\repos\practicas\Excepsiones\Excepsiones\bin\Debug\Excepsiones.pdb
+C:\Users\Golfa\source\repos\practicas\Excepsiones\Excepsiones\obj\Debug\Excepsiones.csproj.AssemblyReference.cache
+C:\Users\Golfa\source\repos\practicas\Excepsiones\Excepsiones\obj\Debug\Excepsiones.csproj.CoreCompileInputs.cache
+C:\Users\Golfa\source\repos\practicas\Excepsiones\Excepsiones\obj\Debug\Excepsiones.exe
+C:\Users\Golfa\source\repos\practicas\Excepsiones\Excepsiones\obj\Debug\Excepsiones.pdb
