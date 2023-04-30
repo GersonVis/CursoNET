@@ -10,6 +10,14 @@ namespace Enumeraciones
     {
         static void Main(string[] args)
         {
+            Rol rolUsuario = Rol.Administrador;
+            switch (rolUsuario) { 
+               case Rol.Administrador:
+                    Console.WriteLine("eres administrador");
+                    break;
+            }
+            rolUsuario++;
+            rolUsuario += 20;
         }
     }
 }

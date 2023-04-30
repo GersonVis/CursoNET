@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{18918184-FA0F-463D-AC8A-817FB8BCC09E}</ProjectGuid>
+    <ProjectGuid>{40ED0345-7C9D-47EF-86E2-CCA1679C6E84}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Enumeraciones</RootNamespace>
-    <AssemblyName>Enumeraciones</AssemblyName>
+    <RootNamespace>Estructuras</RootNamespace>
+    <AssemblyName>Estructuras</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Point.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Rol.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
