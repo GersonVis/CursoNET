@@ -1,0 +1,11 @@
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\bin\Debug\Gestion de clientes.exe.config
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\bin\Debug\Gestion de clientes.exe
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\bin\Debug\Gestion de clientes.pdb
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\obj\Debug\Gestion de clientes.csproj.AssemblyReference.cache
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\obj\Debug\Gestion_de_clientes.GestionarClientes.resources
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\obj\Debug\Gestion_de_clientes.Inicio.resources
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\obj\Debug\Gestion_de_clientes.Properties.Resources.resources
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\obj\Debug\Gestion de clientes.csproj.GenerateResource.cache
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\obj\Debug\Gestion de clientes.csproj.CoreCompileInputs.cache
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\obj\Debug\Gestion de clientes.exe
+C:\Users\Golfa\source\repos\Gestion de clientes\Gestion de clientes\obj\Debug\Gestion de clientes.pdb
